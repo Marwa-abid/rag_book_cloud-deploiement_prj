@@ -11,3 +11,5 @@ backend/data/*.pdf
 !backend/data/.gitkeep
 backend/chroma_db/*
 !backend/chroma_db/.gitkeep
+
+backend/test_gemini.py
